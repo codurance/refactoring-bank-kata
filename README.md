@@ -4,7 +4,7 @@ In this repository, we try to refactor the bank kata, which can be found [here](
 
 We start from a bank kata which works, but can hardly be understood, to a code which is way easier to understand and extend. We recorded a video which can be found on our youtube channel trying to improve the code we have.
 
-Bare in mind the final solution is not perfect. The idea with this project is to gradually improve the project, discover code smells and make the code easier to understand and extend.
+Bear in mind the final solution is not perfect. The idea with this project is to gradually improve the project, discover code smells and make the code easier to understand and extend.
 
 ## Code smells detected
 

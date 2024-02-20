@@ -1,13 +1,15 @@
 {
   "name": "bank-refactoring-kata",
   "version": "1.0.0",
-  "description": "",
+  "description": "Refactoring the Bank Kata",
+  "license": "MIT",
+  "author": "",
   "main": "./src/bank.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
+  "dependencies": {
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }

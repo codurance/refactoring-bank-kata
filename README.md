@@ -2,9 +2,11 @@
 
 In this repository, we try to refactor the bank kata, which can be found [here](https://www.codurance.com/katas/bank).
 
-We start from a bank kata which works, but can hardly be understood, to a code which is way easier to understand and extend. We recorded a video which can be found on our youtube channel trying to improve the code we have.
+We start from a bank kata which works, but can hardly be understood, to a code which is way easier to understand and extend.
+We recorded a video which can be found on our youtube channel trying to improve the code we have.
 
-Bare in mind the final solution is not perfect. The idea with this project is to gradually improve the project, discover code smells and make the code easier to understand and extend.
+Bear in mind the final solution is not perfect. The idea with this project is to gradually improve the project, discover
+code smells and make the code easier to understand and extend.
 
 ## Code smells detected
 
@@ -29,6 +31,8 @@ Bare in mind the final solution is not perfect. The idea with this project is to
 
 ## Structure of the repo
 
-The repo starts from the bank.py file which we want to refactor. Inside the _step_by_step_refactors_ folder, you will find small improvements, each improvement at a time in a different file. Each file has its corresponding test file. We keep all classes in a single file to keep the exercise easier to follow.
+The repo starts from the bank.py file which we want to refactor. Inside the _step_by_step_refactors_ folder, you will find
+small improvements, each improvement at a time in a different file. Each file has its corresponding test file. We keep all
+classes in a single file to keep the exercise easier to follow.
 
 Hope you enjoy the exercise and the youtube video. We are here for feedback :D

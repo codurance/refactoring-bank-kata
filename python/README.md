@@ -6,13 +6,12 @@ In order to run this project you need to have:
     ```bash
     pip install poetry
     ```
+- Install dependencies:
+  ```bash
+  poetry install
+  ```
 
 ## Commands
-
-In order to install dependencies run in the `python` folder:
-```bash
-poetry install
-```
 
 In order to run the tests:
 ```bash

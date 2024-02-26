@@ -7,10 +7,10 @@
   "main": "./src/bank.js",
   "scripts": {
     "test": "jest --colors",
+    "test:watch": "jest --watchAll --colors",
     "test:coverage": "jest --colors --coverage"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^29.7.0"
   }

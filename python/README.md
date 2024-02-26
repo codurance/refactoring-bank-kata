@@ -11,6 +11,10 @@ In order to run this project you need to have:
   poetry install
   ```
 
+> 🚧 ***Warning***
+>
+> If you change the python version you need to regenarate `poetry.lock`
+
 ## Commands
 
 In order to run the tests:
